@@ -1,0 +1,100 @@
+title: CV
+resume:
+  name: Xing, Wenfeng
+  jobtitle: Software Developer
+  location:
+    - key: address
+      value: 5555 Coolbrook
+    - key: postalCode
+      value: H3X 2L6
+    - key: city
+      value: Montreal
+    - key: region
+      value: Quebec
+    - key: countryCode
+      value: Canada
+  contact:
+    - icon: fa-external-link
+      text: https://bearfighting.github.io/resume_english/
+    - icon: fa-envelope
+      text: florentxingwenfeng@gmail.com
+    - icon: fa-phone-square
+      text: your-phone-num
+  profiles:
+    - icon: fa-linkedin
+      text: linkedin
+      link: https://www.linkedin.com/in/xing-wenfeng-87a24290
+    - icon: fa-github
+      text: github
+      link: https://github.com/bearfighting
+  overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  #   level: beginner, intermediate, advanced, master
+  skills:
+    - title: Frontend Techs
+      level: intermediate
+      items: [React, Webpack, Javascript, Sit, Amet]
+    - title: Backend Techs
+      level: intermediate
+      items: [Java, Node.js, Express.js, Spring Boot]
+    - title: Developement Tools
+      level: beginner
+      items: [Linux, Eiusmod, Tempor, Incididunt]
+  experience:
+    - position: Fullstack Software Developer internship and part-time
+      duration: Mai 2020 - Dec 2021
+      company: Service Infomatique UQAM
+      website: https://uqam.ca/
+      description: a whole new project for modernizing 
+      hilights: [
+        Optimized an algorithm that holds the current world record for Weisman Scores,
+        Hilight 2,
+        Hilight 3,
+      ]
+    - position: Aircraft System Software Developer Internship
+      duration: Sep 2019 - Dec 2019
+      company: CAE Co, Ltd.
+      website: https://www.cae.com/fr/
+      description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      hilights: [
+        Hilight 1,
+        Optimized an algorithm that holds the current world record for Weisman Scores
+      ]
+    - position: Market Development Assistant
+      duration: Mai 2011 - Apr 2017
+      company: China CAMC Engineering Co.,LTD
+      website: http://www.camce.com.cn/xben/
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  
+      # Education
+  education:
+    - institution: University of Quebec in Montreal (UQAM)
+      course: Bachelor Of Applied Science
+      duration: Jun 2018 - Dec 2021
+      location: Case postale 8888, succ. Centre-ville Montréal (Québec) H3C 3P8 Canada
+      major: Computer Sicence And Engineering Co-op (GPA 3.28)
+    - institution: Hebei University
+      course: bachelor of arts
+      duration: Sep 2003 - Jul 2007
+      location: No. 180 Wusi Dong Road, Lian Chi District, Baoding City, Hebei Province, China Post Code 071002
+      major: French Language And Litterature
+# Showcase your work
+  projects:
+  - title: Translator SCSS to CSS
+    description: A basic translator from SCSS to CSS developed on Java 
+    duration: Jul 2011 - Dec 2012
+    contribution: Creator and maintainer.
+    website: https://github.com/bearfighting/scss_translator
+  - title: Working Manager System
+    description: A web project to facilicite the everyday work including a Notion like workspace based on Zero.Server framework integrated React.js, Express.js, Knex.js and postgresql etc.
+    duration: Fev 2021 - Mai 2021
+    contribution: Creator and maintainer.
+    website: https://github.com/bearfighting/Working-Management-System
+# Langguages Known 
+# proficiency: beginner, intermediate, advanced, master, fluent, native speaker
+  languages:
+  - name: French
+    proficiency: fluent
+  - name: English
+    proficiency: advanced
+  - name: Chinese
+    proficiency: native speaker
